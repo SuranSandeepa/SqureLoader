@@ -1,2 +1,1 @@
 # SqureLoader
-HTML/CSS 
